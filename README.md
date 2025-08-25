@@ -1,9 +1,6 @@
 # AgentOPS
 A command-line “agent orchestration” tool that lets non-technical users assemble, run, and monitor multimodal AI pipelines (e.g., retrieval, summarization, decision agents) with a plugin-based architecture. 
 
-AgentOps — System Blueprint
-Architecture at a glance
-
 ## Architecture at a glance
 
 - **CLI (Typer)**: Command-line interface that accepts user commands and translates them into YAML DAGs.
